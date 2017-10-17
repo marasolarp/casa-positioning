@@ -1,0 +1,96 @@
+.pasto{
+	background-color: green;
+	height: 40px; 
+	position:relative;	
+	top:700px;
+}
+.base{
+	width: 400px;
+	height:200px;
+	background-color: red;
+	position: relative;
+	left:200px;
+	top:460px; 
+}	
+.techo{
+	width: 350px;
+    height: 0px;
+    border-right: 60px solid transparent;
+    border-left: 60px solid transparent;
+    border-bottom: 100px solid black;
+    position: relative;
+	left:170px;
+	top:170px;
+}
+.ventana_1{
+	width: 80px;
+	height:80px;
+	background-color: pink;
+	border: 2px solid black;
+	position: relative;
+	left:230px;
+	top:230px;
+}
+
+.ventana_2{
+	width: 80px;
+	height:80px;
+	border: 2px solid black;
+	background-color: pink;
+	position: relative;
+	left:490px;
+	top:150px;
+}
+.puerta{
+	width: 100px;
+	height:150px;
+	border: 2px solid black;
+	background-color: white;
+	position: relative;
+	left:350px;
+	top:40px;
+}
+.chimenea{
+	width: 50px;
+	height:70px;
+	background-color: gold;
+	position: relative;
+	left:490px;
+	top:-300px;
+
+}
+.humo_1{
+	width: 50px;
+     height: 50px;
+     -moz-border-radius: 50%;
+     -webkit-border-radius: 50%;
+     border-radius: 50%;
+     background-color: grey;
+     position: relative;
+	left:490px;
+	top:-430px;
+
+}
+.humo_2{
+	width: 30px;
+     height: 30px;
+     -moz-border-radius: 50%;
+     -webkit-border-radius: 50%;
+     border-radius: 50%;
+     background-color: grey;
+     position: relative;
+	left:525px;
+	top:-500px;
+}
+
+.humo_3{
+	width: 20px;
+     height:20px;
+     -moz-border-radius: 50%;
+     -webkit-border-radius: 50%;
+     border-radius: 50%;
+     background-color: grey;
+     position: relative;
+	left:550px;
+	top:-540px;
+}
